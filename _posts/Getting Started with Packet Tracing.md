@@ -17,9 +17,17 @@ Packet tracing involves examining the data packets that travel across networks. 
 
 Wireshark is a user-friendly packet analyzer with a graphical interface, while Tcpdump is a command-line tool for capturing packets. Both tools serve the same purpose but cater to different preferences—Wireshark for visual learners and Tcpdump for those comfortable with the command line.
 
+
+![Wireshark example](https://i.imgur.com/wrrtbsk.jpg)
+
+
 ## Chapter 3: Capturing Packets with Wireshark
 
 Let's start by capturing packets with Wireshark. Simply launch Wireshark, select your network interface, and click "Start" to begin capturing packets in real time. You'll see a list of packets with details like source and destination IP addresses, protocols, and more.
+
+
+![Wireshark capture](https://i.imgur.com/5yMryl6.jpg)
+
 
 ## Chapter 4: Understanding Packet Filtering
 
@@ -29,6 +37,10 @@ Packet filtering allows us to focus on specific types of packets instead of capt
 
 To capture only HTTP traffic (web browsing), apply a filter like "tcp.port == 80" in Wireshark. This filter will display packets related to HTTP requests and responses, making it easier to analyze web traffic.
 
+
+![TCPDump example1](https://i.imgur.com/I0xmX0d.jpg)
+
+
 ### Example 2: Filtering VoIP Traffic
 
 Interested in VoIP (Voice over IP) calls? Use a filter like "udp port 5060" in Tcpdump to capture VoIP-related packets. This filter targets packets using the SIP protocol commonly used in VoIP communications.
@@ -36,6 +48,10 @@ Interested in VoIP (Voice over IP) calls? Use a filter like "udp port 5060" in T
 ## Chapter 5: Analyzing Captured Packets
 
 Once you've captured packets and applied filters, it's time to analyze them. Look for patterns, anomalies, and potential security issues. Wireshark and Tcpdump offer tools for dissecting packets, examining packet contents, and gaining insights into network behavior.
+
+
+![TCPDump example2](https://i.imgur.com/CrZieLH.jpg)
+
 
 ## Chapter 6: Practical Applications and Next Steps
 
