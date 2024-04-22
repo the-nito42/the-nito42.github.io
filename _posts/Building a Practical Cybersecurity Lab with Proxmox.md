@@ -10,7 +10,7 @@ In this guide, we'll dive into the technical details of setting up a functional 
 
 ## Chapter 1: Understanding the Hardware - HP EliteDesk 800 G4 Mini
 
-The HP EliteDesk 800 G4 Mini is a compact yet powerful workstation equipped with an Intel Core i7 processor, sufficient RAM, and storage capabilities. Its small form factor makes it suitable for hosting virtual machines (VMs) and running resource-intensive applications, making it an excellent choice for our cybersecurity lab.
+The HP EliteDesk 800 G4 Mini is a compact yet powerful workstation equipped with an Intel Core i7 processor, 32gb RAM, and over 1tb of storage. Its small form factor makes it suitable for hosting virtual machines (VMs) and running resource-intensive applications, making it an excellent choice for our cybersecurity lab.
 
 ## Chapter 2: Introduction to Proxmox VE 8.1
 
@@ -22,11 +22,11 @@ To begin, we'll download the Proxmox VE ISO and create a bootable USB drive usin
 
 ## Chapter 4: Configuring Storage and Networking
 
-With Proxmox VE installed, we'll configure storage pools using local disks or network storage solutions like NFS or iSCSI. We'll also set up network bridges, VLANs, and firewall rules to ensure secure communication between VMs and external networks, adhering to best practices for network segmentation and isolation.
+With Proxmox VE installed, we'll configure storage pools using local disks or network storage solutions like NFS, that is what I am using. We'll also set up network bridges, VLANs, and firewall rules to ensure secure communication between VMs and external networks, adhering to best practices for network segmentation and isolation.
 
 ## Chapter 5: Creating Virtual Machines for Cybersecurity Tasks
 
-Using the Proxmox VE web interface, we'll create VMs running operating systems such as Kali Linux, Windows Server, and Ubuntu. These VMs will serve as our testing environments for performing vulnerability assessments, network scans, forensic analysis, and other cybersecurity tasks.
+Using the Proxmox VE web interface, we'll create VMs running operating systems such as Kali Linux, Parot, Windows Server, and Ubuntu. These VMs will serve as our testing environments for performing vulnerability assessments, network scans, forensic analysis, and other cybersecurity tasks.
 
 ## Chapter 6: Securing the Environment
 
@@ -34,7 +34,7 @@ Security is paramount in a cybersecurity lab. We'll implement security measures 
 
 ## Chapter 7: Utilizing Monitoring and Logging Tools
 
-To monitor the performance and security of our lab, we'll leverage Proxmox VE's built-in monitoring features, such as resource usage graphs, system logs, and alert notifications. Additionally, we may integrate external monitoring tools like Prometheus and Grafana for more comprehensive insights into our lab environment.
+To monitor the performance and security of our lab, we'll leverage Proxmox VE's built-in monitoring features, such as resource usage graphs, system logs, and alert notifications. Additionally, we may integrate external monitoring tools like Prometheus, Wazah, Splunk, and Grafana for more comprehensive insights into our lab environment.
 
 ## Chapter 8: Practical Use Cases and Experiments
 
