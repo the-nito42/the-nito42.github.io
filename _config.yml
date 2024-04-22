@@ -34,15 +34,15 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: JP_Roth
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://twitter.com/THEoriginalNITO # change to your twitter homepage
+    - https://github.com/the-nito42 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/jp-roth-8784b8168?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 google_site_verification: # fill in to your verification string
 
@@ -64,7 +64,7 @@ goatcounter:
 # Available options:
 #
 #     light  - Use the light color scheme
-#     dark   - Use the dark color scheme
+     dark   - Use the dark color scheme
 #
 theme_mode: # [light | dark]
 
@@ -76,7 +76,7 @@ theme_mode: # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://github.com/account
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
