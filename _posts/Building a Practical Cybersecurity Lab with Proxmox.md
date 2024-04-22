@@ -1,7 +1,7 @@
 ---
 title: Building a Practical Cybersecurity Lab with Proxmox VE
-date: 2024-04-21
-tags: [servers, homelab, proxmox, cybersecurity]
+date: 2024-04-15
+tags: [servers,homelab,proxmox,cybersecurity]
 ---
 
 # Building a Practical Cybersecurity Lab with Proxmox VE on HP EliteDesk 800 G4 Mini (Version 8.1)
