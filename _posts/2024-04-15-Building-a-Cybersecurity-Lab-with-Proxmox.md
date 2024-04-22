@@ -2,8 +2,8 @@
 layout: post
 title: Building a Practical Cybersecurity Lab with Proxmox VE
 date: 2024-04-15
-catagories: [homelab,cybersecurity]
-tags: [servers,homelab,proxmox,cybersecurity]
+categories: [homelab, cybersecurity]
+tags: [servers, homelab, proxmox, cybersecurity]
 ---
 
 # Building a Practical Cybersecurity Lab with Proxmox VE on HP EliteDesk 800 G4 Mini (Version 8.1)
@@ -12,7 +12,9 @@ In this guide, we'll dive into the technical details of setting up a functional 
 
 ## Chapter 1: Understanding the Hardware - HP EliteDesk 800 G4 Mini
 
-The HP EliteDesk 800 G4 Mini is a compact yet powerful workstation equipped with an Intel Core i7 processor, 32gb RAM, and over 1tb of storage. Its small form factor makes it suitable for hosting virtual machines (VMs) and running resource-intensive applications, making it an excellent choice for our cybersecurity lab.
+The HP EliteDesk 800 G4 Mini is a compact yet powerful workstation equipped with an Intel Core i7 processor, 32GB RAM, and over 1TB of storage. Its small form factor makes it suitable for hosting virtual machines (VMs) and running resource-intensive applications, making it an excellent choice for our cybersecurity lab.
+
+![elitedesk800g4](https://imgur.com/JzU64Uk)
 
 ## Chapter 2: Introduction to Proxmox VE 8.1
 
@@ -24,11 +26,13 @@ To begin, we'll download the Proxmox VE ISO and create a bootable USB drive usin
 
 ## Chapter 4: Configuring Storage and Networking
 
-With Proxmox VE installed, we'll configure storage pools using local disks or network storage solutions like NFS, that is what I am using. We'll also set up network bridges, VLANs, and firewall rules to ensure secure communication between VMs and external networks, adhering to best practices for network segmentation and isolation.
+With Proxmox VE installed, we'll configure storage pools using local disks or network storage solutions like NFS, which is what I am using. We'll also set up network bridges, VLANs, and firewall rules to ensure secure communication between VMs and external networks, adhering to best practices for network segmentation and isolation.
 
 ## Chapter 5: Creating Virtual Machines for Cybersecurity Tasks
 
-Using the Proxmox VE web interface, we'll create VMs running operating systems such as Kali Linux, Parot, Windows Server, and Ubuntu. These VMs will serve as our testing environments for performing vulnerability assessments, network scans, forensic analysis, and other cybersecurity tasks.
+Using the Proxmox VE web interface, we'll create VMs running operating systems such as Kali Linux, Parrot, Windows Server, and Ubuntu. These VMs will serve as our testing environments for performing vulnerability assessments, network scans, forensic analysis, and other cybersecurity tasks.
+
+![proxmoxsetup](https://imgur.com/oZKKh8e)
 
 ## Chapter 6: Securing the Environment
 
