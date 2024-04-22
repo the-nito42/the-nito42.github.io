@@ -14,7 +14,7 @@ In this guide, we'll dive into the technical details of setting up a functional 
 
 The HP EliteDesk 800 G4 Mini is a compact yet powerful workstation equipped with an Intel Core i7 processor, 32GB RAM, and over 1TB of storage. Its small form factor makes it suitable for hosting virtual machines (VMs) and running resource-intensive applications, making it an excellent choice for our cybersecurity lab.
 
-![elitedesk800g4](https://imgur.com/JzU64Uk)
+![elitedesk800g4](https://imgur.com/JzU64Uk.jpg)
 
 ## Chapter 2: Introduction to Proxmox VE 8.1
 
@@ -32,7 +32,7 @@ With Proxmox VE installed, we'll configure storage pools using local disks or ne
 
 Using the Proxmox VE web interface, we'll create VMs running operating systems such as Kali Linux, Parrot, Windows Server, and Ubuntu. These VMs will serve as our testing environments for performing vulnerability assessments, network scans, forensic analysis, and other cybersecurity tasks.
 
-![proxmoxsetup](https://imgur.com/oZKKh8e)
+![proxmoxsetup](https://imgur.com/oZKKh8e.jpg)
 
 ## Chapter 6: Securing the Environment
 
