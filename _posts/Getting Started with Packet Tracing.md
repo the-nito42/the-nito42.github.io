@@ -1,4 +1,5 @@
 ---
+layout: post
 Title: "Getting Started with Packet Tracing: A Beginner's Guide to Wireshark, Tcpdump, and Packet Filtering"
 date: 2024-04-21
 categories: [networking,cybersecurity]
