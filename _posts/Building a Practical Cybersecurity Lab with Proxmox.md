@@ -4,6 +4,7 @@ date: 2024-04-21
 tags: [servers, homelab, proxmox, cybersecurity]
 ---
 
+
 # Building a Practical Cybersecurity Lab with Proxmox VE on HP EliteDesk 800 G4 Mini (Version 8.1)
 
 In this guide, we'll dive into the technical details of setting up a functional cybersecurity lab using Proxmox VE on an HP EliteDesk 800 G4 Mini running version 8.1. This setup is ideal for enthusiasts and professionals looking to experiment with cybersecurity tools, conduct penetration tests, and analyze security threats in a controlled environment.
