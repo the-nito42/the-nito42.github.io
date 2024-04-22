@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Building a Practical Cybersecurity Lab with Proxmox VE
 date: 2024-04-15
 tags: [servers,homelab,proxmox,cybersecurity]
