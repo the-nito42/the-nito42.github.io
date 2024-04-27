@@ -1,4 +1,13 @@
-## Crafting a Network Port Scanner in Python: A Step-by-Step Guide
+---
+layout: post
+Title: "Crafting a Network Port Scanner in Python: A Step-by-Step Guide"
+date: 2024-04-21
+categories: [networking,cybersecurity]
+tags: [homelab,cybersecurity,portscan,networking]
+---
+
+
+## Crafting a Network Port Scanner in Python
 
 **Understanding the Goal**
 
