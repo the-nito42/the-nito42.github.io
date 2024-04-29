@@ -14,6 +14,10 @@ Let's take a peek behind the digital curtain and explore the dance of signatures
 
 Think of signatures as digital fingerprints that identify threats lurking in network traffic. They're like the keen senses of Suricata, recognizing known attack patterns or suspicious behavior. Rules, on the other hand, are Suricata's playbook, guiding its actions when it spots a matching signature.
 
+
+![Image Description](https://i.imgur.com/aY8vc8q.jpg)
+
+
 ## Chapter 2: Configuring Suricata with Signatures
 
 Let's kick things off by grabbing the latest Suricata ruleset from reputable sources like Emerging Threats or Suricata's official site. These rulesets are like armor, ready to fortify Suricata against a myriad of threats. We'll dive into Suricata's configuration, loading these rulesets, and keeping them fresh to stay ahead of cyber adversaries.
@@ -22,6 +26,10 @@ Let's kick things off by grabbing the latest Suricata ruleset from reputable sou
 
 While off-the-shelf rules cover many bases, crafting custom rules gives Suricata a personalized touch. We'll roll up our sleeves and learn the syntax—keywords, options, and actions—that breathe life into custom rules. This hands-on approach empowers us to tailor Suricata's vigilance to our network's unique landscape.
 
+
+![Image Description](https://i.imgur.com/OOm6hIl.jpg)
+
+
 ## Chapter 4: Navigating Suricata's Logs
 
 Ah, the logs—the treasure trove of insights into Suricata's vigilant eye. We'll venture into Suricata's log entries, decoding timestamps, alert categories, IP addresses, port numbers, and the telltale signature IDs. This detective work equips us to spot anomalies, track down threats, and strengthen our defenses.
@@ -29,6 +37,11 @@ Ah, the logs—the treasure trove of insights into Suricata's vigilant eye. We'l
 ## Chapter 5: Digging Deeper into Log Entries
 
 Beyond the basics, Suricata's logs offer a deeper dive into network activity. We'll explore metadata and payload information nestled within log entries, uncovering the finer details that paint a comprehensive picture of network events. This deeper understanding fuels proactive threat hunting and incident response.
+
+
+![Image Description](https://i.imgur.com/hdb5AYJ.jpg)
+
+
 
 ## Chapter 6: Taking Action on Detected Threats
 
