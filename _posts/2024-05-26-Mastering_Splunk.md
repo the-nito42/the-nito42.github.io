@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mastering Splunk Querying: A Comprehensive Guide to Data Analysis"
-date: 2024-05-19
+date: 2024-05-26
 categories: [SIEM,cybersecurity]
 tags: [SIEM,cybersecurity]
 ---
