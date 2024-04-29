@@ -15,6 +15,11 @@ Welcome to the comprehensive guide to mastering Splunk querying and data analysi
 
 Splunk queries serve as the cornerstone of data exploration and analysis within the Splunk platform. At its core, Splunk's query language allows users to formulate complex search commands to interrogate vast volumes of data. Understanding the syntax, operators, and functions of Splunk's query language is essential for harnessing its full potential in uncovering meaningful insights from diverse datasets.
 
+
+![Splunk Querying](https://i.imgur.com/mxEcanP.jpg)
+
+
+
 ## Chapter 2: Navigating Splunk's Query Interface
 
 Splunk's query interface provides a feature-rich environment for constructing and executing queries. From the search bar to the search assistant and search job inspector, Splunk offers a plethora of tools and functionalities to streamline the query-building process. Familiarizing yourself with these interface components empowers you to efficiently craft precise queries tailored to your analytical objectives.
@@ -23,9 +28,18 @@ Splunk's query interface provides a feature-rich environment for constructing an
 
 Building upon foundational query skills, mastering advanced querying techniques is pivotal for conducting sophisticated data analysis in Splunk. Techniques such as subsearches, event correlation, and statistical functions enable users to extract nuanced insights and detect subtle patterns within complex datasets. By honing these advanced querying skills, analysts can elevate their analytical prowess and uncover deeper layers of actionable intelligence.
 
+
+![Splunk Querying](https://i.imgur.com/0fsNTld.jpg)
+
+
 ## Chapter 4: Extracting Maximum Value from Query Results
 
 Interpreting and analyzing query results is an art form in itself. Splunk's query results provide a wealth of information, including timestamps, field extractions, and statistical summaries. Understanding how to interpret and manipulate query results effectively equips analysts with the ability to derive actionable insights, identify trends, and make data-driven decisions with confidence.
+
+
+![Splunk Querying](https://i.imgur.com/vR32RPy.jpg)
+
+
 
 ## Chapter 5: Lessons Learned and Best Practices
 
