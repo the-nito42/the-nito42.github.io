@@ -2,10 +2,9 @@
 layout: post
 title: "Unleash the Pwnagotchi: Adventures in Building"
 date: 2024-05-12
-categories: [Wifi,cybersecurity]
-tags: [Wifi,cybersecurity]
+categories: [Wifi, cybersecurity]
+tags: [Wifi, cybersecurity]
 ---
-
 
 
 # Unleash the Pwnagotchi: Adventures in Building with Raspberry Pi Zero W and Waveshare 1.44 LCD Screen
