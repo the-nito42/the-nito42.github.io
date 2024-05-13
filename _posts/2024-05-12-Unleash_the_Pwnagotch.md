@@ -7,6 +7,7 @@ tags: [Wifi,cybersecurity]
 ---
 
 
+
 # Unleash the Pwnagotchi: Adventures in Building with Raspberry Pi Zero W and Waveshare 1.44 LCD Screen
 
 In the captivating realm where cybersecurity meets Raspberry Pi wizardry, there exists a delightful creature known as the Pwnagotchi. With the cunning of a hacker and the charm of a retro gaming mascot, the Pwnagotchi is your trusty sidekick in the quest for Wi-Fi wisdom and ethical hacking shenanigans. Join us on an exhilarating journey as we craft our very own Pwnagotchi using the Raspberry Pi Zero W and a Waveshare 1.44-inch LCD screen, diving deep into the technical wonders and playful antics along the way.
