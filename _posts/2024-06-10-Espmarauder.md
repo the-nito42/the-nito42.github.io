@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Crafting an ESP32 Marauder: A Comprehensive Technical Guide with Affordable Components
+title: "Crafting an ESP32 Marauder: A Comprehensive Technical Guide with Affordable Components"
 date: 2024-06-10
 categories: [wifi, wardriving, cybersecurity]
 tags: [esp32, wifi, wardriving, cybersecurity]
