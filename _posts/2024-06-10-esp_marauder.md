@@ -23,7 +23,7 @@ Navigation forms the backbone of our Marauder's functionality, and the GOOUUU Te
 Power management is a critical consideration in any portable electronics project, and the 502535 battery offers a compelling solution to our energy needs. Despite its diminutive size, this lithium polymer battery packs a punch, boasting a high energy density and stable voltage output. Its compact form factor allows for seamless integration into our ESP32 Marauder, ensuring uninterrupted operation during our adventures.
 
 ### 4. Marauder Firmware:
-At the heart of our ESP32 Marauder lies the Marauder firmware, a meticulously crafted piece of software designed to unleash the full potential of our components. Developed by a community of enthusiasts, this firmware provides a robust framework for integrating various functionalities, including GPS navigation, display management, and user interaction. With its modular architecture and extensive documentation, the Marauder firmware empowers us to customize and extend our ESP32 Marauder to suit our specific requirements.
+At the heart of our ESP32 Marauder lies the Marauder firmware, a meticulously crafted piece of software designed to unleash the full potential of our components. Developed by a community of enthusiasts, this firmware provides a robust framework for integrating various functionalities, including display management, and user interaction. With its modular architecture and extensive documentation, the Marauder firmware empowers us to customize and extend our ESP32 Marauder to suit our specific requirements.
 
 
 ![ESP32 Marauder](https://i.imgur.com/8vrmJlX.jpg)
