@@ -6,6 +6,7 @@ categories: [wifi, wardriving, cybersecurity]
 tags: [esp32, wifi, wardriving, cybersecurity]
 ---
 
+
 # Crafting an ESP32 Marauder: A Comprehensive Technical Guide with Affordable Components
 
 In the realm of do-it-yourself (DIY) electronics, there exists an exhilarating pursuit: crafting gadgets that not only function but also offer a glimpse into the boundless possibilities of technology. Today, we embark on a comprehensive journey to construct an ESP32 Marauder, a device born from the amalgamation of a cheap yellow display with an integrated ESP32 microcontroller, a GOOUUU Tech GPS module, a 502535 battery, and the formidable Marauder firmware. Prepare to delve deep into the technical intricacies of each component as we unravel the process of building this versatile gadget.
