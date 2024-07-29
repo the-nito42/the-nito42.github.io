@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: "Creating a Reverse Shell with PicoUSB: A Comprehensive Guide"
+title: "Creating a Reverse Shell with PicoUSB: A Comprehensive Guide"
 date: 2024-07-22
 categories: [reverse shell,picousb,cybersecurity]
 tags: [picousb,cybersecurity,reverse shell,pentesting,rubberducky]
