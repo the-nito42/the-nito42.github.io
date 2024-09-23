@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Analyzing a Cybersecurity Incident: Key Lessons and the Importance of Effective Report Writing
-"
+title: "Analyzing a Cybersecurity Incident: Key Lessons and the Importance of Effective Report Writing"
 date: 2024-09-09
-categories: [honeypot, cybersecurity]
-tags: [honeypot, cybersecurity]
+categories: [report, SOC, cybersecurity]
+tags: [report, SOC, cybersecurity]
 ---
 
 # Analyzing a Cybersecurity Incident: Key Lessons and the Importance of Effective Report Writing
