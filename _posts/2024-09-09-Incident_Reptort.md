@@ -113,7 +113,8 @@ Effective report writing is essential in incident management for several reasons
 
 ## Incident Diagram
 
-![Description of the image](https://imgur.com/OeXPAhS)
+![Springfield diagram](https://i.imgur.com/OeXPAhS.png)
+
 
 
 ---
