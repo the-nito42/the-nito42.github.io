@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Using NetworkMiner for Network Forensics: A Technical Guiden"
-date: 2025-01-19
+date: 2025-01-26
 categories: [networking, forensics, cybersecurity]
 tags: [networking, forensics, cybersecurity]
 ---
